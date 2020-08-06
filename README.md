@@ -6,6 +6,7 @@ This repository is for iNeuron DLCVNLP course Assignments .
 2. Python Assihnment 2
 3. Python Assihnment 3
 4. Python Assihnment 4
+5. Exception handling Assignment
 
 
 ## [1. Python Assignment 1](https://github.com/Swatichanchal/INeuron.Ai-Assignments/tree/master/Assignment-1)
@@ -20,3 +21,8 @@ In this assignment I used String object basics , String methods , Splitting and 
 
 ## [4. Python Assihnment 4](https://github.com/Swatichanchal/INeuron.Ai-Assignments/tree/master/Assignment-4)
 This assignment is based on Tuples,Sets,Dictionary Object basics,Dictionary Object methods,Dictionary View Objects , Functions basics,Parameter passing,Iterators , Generator functions , Lambda functions , Map, Reduce and  filter functions .
+
+
+## [5. Exception handling Assignment](https://github.com/Swatichanchal/INeuron.Ai-Assignments/tree/master/Assignment-5)
+This assignment covers  Modules , Exception Handling & Database Programming , Creating new modules , Context Module Sub Header , Exceptions Handling with Try-except
+Creating ,inserting and retrieving Table and Updating and deleting the data.
