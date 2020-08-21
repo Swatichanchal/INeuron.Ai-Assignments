@@ -25,4 +25,4 @@ This assignment is based on Tuples,Sets,Dictionary Object basics,Dictionary Obje
 
 ## [5. Exception handling Assignment](https://github.com/Swatichanchal/INeuron.Ai-Assignments/tree/master/Assignment-5)
 This assignment covers  Modules , Exception Handling & Database Programming , Creating new modules , Context Module Sub Header , Exceptions Handling with Try-except
-Creating ,inserting and retrieving Table and Updating and deleting the data.
+Creating ,inserting and retrieving Table and Updating and deleting the data. 
